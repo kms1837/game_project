@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/player.cs">
+    <Files>
+      <File FileName="Assets/Script/LibraryScript.cs" Line="230" Column="2" />
+      <File FileName="Assets/Script/CSVParser.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/MoveStoreButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ScreenChangeEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/MoveVillage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Scale.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/BackGround.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/WorldMap.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/player.cs" Line="21" Column="1" />
+      <File FileName="Assets/Script/QuestMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
